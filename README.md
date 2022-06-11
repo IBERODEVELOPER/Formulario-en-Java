@@ -11,4 +11,7 @@ Edad 21 – 40: debe pagar 120 soles.
 Edad 41 – 60: debe pagar 300 soles.
 Edad 60 a más: debe pagar 450 soles.
 
+![image](https://user-images.githubusercontent.com/12779523/173164617-8f241e49-a9db-41d9-b942-04c69770359d.png)
+
+
 Proyecto desarrollado en el blog "El Informatico Ibero"
